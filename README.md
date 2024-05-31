@@ -28,32 +28,32 @@ Weights: https://drive.google.com/drive/folders/1zXlQXpffxGcCl4FuABoPPzh2WMnYz79
 ### Precision-Recall Curve
 
 #### Этап 1: После обучения на автомобилях
-![Precision-Recall Curve - Этап 1](CloudHunters/demonstrating_images/PR_curve(2).png)
+![Precision-Recall Curve - Этап 1](demonstrating_images/PR_curve (2).png)
 
 #### Этап 2: После обучения на автомобилях и небольшом количестве самолетов
-![Precision-Recall Curve - Этап 2](CloudHunters/demonstrating_images/PR_curve.png)
+![Precision-Recall Curve - Этап 2](demonstrating_images/PR_curve.png)
 
 #### Этап 3: После полного обучения
-![Precision-Recall Curve - Этап 3](CloudHunters/demonstrating_images/PR_curve(1).png)
+![Precision-Recall Curve - Этап 3](demonstrating_images/PR_curve (1).png)
 
 ### Матрица ошибок (Confusion Matrix)
 
 #### Обычная матрица ошибок
-![Confusion Matrix](CloudHunters/demonstrating_images/confusion_matrix.png)
+![Confusion Matrix](demonstrating_images/confusion_matrix.png)
 
 #### Нормализованная матрица ошибок
-![Normalized Confusion Matrix](CloudHunters/demonstrating_images/confusion_matrix_normalized.png)
+![Normalized Confusion Matrix](demonstrating_images/confusion_matrix_normalized.png)
 
 ### Примеры работы модели
 
 #### Пример 1: Обнаружение автомобилей
-![Detection Example - Cars](CloudHunters/demonstrating_images/cars_det.jpg)
+![Detection Example - Cars](demonstrating_images/cars_det.jpg)
 
 #### Пример 2: Обнаружение автомобилей и автобусов
-![Detection Example - Cars and Buses](CloudHunters/demonstrating_images/bus_cars_det.jpg)
+![Detection Example - Cars and Buses](demonstrating_images/bus_cars_det.jpg)
 
 #### Пример 3: Обнаружение самолетов
-![Detection Example - Planes](CloudHunters/demonstrating_images/planes_det.jpg)
+![Detection Example - Planes](demonstrating_images/planes_det.jpg)
 
 ## Анализ и выводы
 
