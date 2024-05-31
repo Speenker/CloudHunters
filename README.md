@@ -28,13 +28,13 @@ Weights: https://drive.google.com/drive/folders/1zXlQXpffxGcCl4FuABoPPzh2WMnYz79
 ### Precision-Recall Curve
 
 #### Этап 1: После обучения на автомобилях
-![Precision-Recall Curve - Этап 1](demonstrating_images/PR_curve(2).png)
+![Precision-Recall Curve - Этап 1](demonstrating_images/PR_curve (2).png)
 
 #### Этап 2: После обучения на автомобилях и небольшом количестве самолетов
 ![Precision-Recall Curve - Этап 2](demonstrating_images/PR_curve.png)
 
 #### Этап 3: После полного обучения
-![Precision-Recall Curve - Этап 3](demonstrating_images/PR_curve(1).png)
+![Precision-Recall Curve - Этап 3](demonstrating_images/PR_curve (1).png)
 
 ### Матрица ошибок (Confusion Matrix)
 
