@@ -46,6 +46,8 @@ Weights: https://drive.google.com/drive/folders/1zXlQXpffxGcCl4FuABoPPzh2WMnYz79
 
 ### Примеры работы модели
 
+> Модель рассчитана на работу с изображениями размера 1280x1280
+
 #### Пример 1: Обнаружение автомобилей
 ![Detection Example - Cars](demonstrating_images/cars_det.jpg)
 
